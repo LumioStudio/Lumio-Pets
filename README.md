@@ -1,4 +1,6 @@
 # Lumio Personal Pets
+Available here: https://lumio-studio.tebex.io/package/5049135
+
 ## Info
 This is a custom script that allows you to buy, own and care animals / pets! It's fully configurable and easy to use. It is used on a server for a month as a testing phase and so far no complaints.
 
