@@ -114,8 +114,8 @@ Config.BuyPetMenu = {
 ```
 - Add these items to your `qb-inventory > html > images`, images found in images folder
 
-![dogfood](images/dogfood.png)
-![catfood](images/catfood.png)
+![dogfood](https://cdn.discordapp.com/attachments/928287293742149716/961757865608114187/dogfood.png)
+![catfood](https://cdn.discordapp.com/attachments/928287293742149716/961757865410973707/catfood.png)
 
 ### **Database**
 - Insert the pets.sql file in your database
