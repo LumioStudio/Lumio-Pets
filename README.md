@@ -10,6 +10,7 @@ You can manage your pet by doing the configured slash command and there you will
 - Fully configurable
 - Default english, dutch supported, you can easily add others
 - Completely custom and optimised
+- Pet has a food and health system so they can die
 
 ## How to install
 ### **Choose core**
